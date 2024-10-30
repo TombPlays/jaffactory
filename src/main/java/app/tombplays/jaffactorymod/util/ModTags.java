@@ -11,6 +11,9 @@ import app.tombplays.jaffactorymod.JaffactoryMod;
 public class ModTags {
     public static class Blocks {
         public static final TagKey<Block> JAFFACTORY_FRUIT = tag("jaffactory_fruit");
+        public static final TagKey<Block> ORANGE_BLOCK = tag("orange_block");
+        public static final TagKey<Block> ORANGE_LOG_BLOCK = tag("orange_log_block");
+        public static final TagKey<Block> ORANGE_PLANKS_BLOCK = tag("orange_planks_block");
 
 
         private static TagKey<Block> tag(String name) {

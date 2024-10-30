@@ -23,6 +23,19 @@ public class ModCreativeTabs {
                         output.accept(ModItems.ORANGE_JUICE.get());
 
                         output.accept(ModBlocks.ORANGE_BLOCK.get());
+                        output.accept(ModBlocks.ORANGE_LOG_BLOCK.get());
+
+                        output.accept(ModBlocks.ORANGE_PLANKS_BLOCK.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_STAIRS.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_SLAB.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_BUTTON.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_PRESSURE_PLATE.get());
+
+                        output.accept(ModBlocks.ORANGE_PLANKS_FENCE.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_FENCE_GATE.get());
+
+                        output.accept(ModBlocks.ORANGE_PLANKS_DOOR.get());
+                        output.accept(ModBlocks.ORANGE_PLANKS_TRAPDOOR.get());
                     })
                     .build());
 

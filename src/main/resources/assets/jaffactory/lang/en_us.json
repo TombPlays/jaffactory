@@ -1,7 +1,17 @@
 {
   "creativetab.jaffactory_tab": "Jaffactory",
-  "item.jaffactory.orange": "Orange",
-  "item.jaffactory.orange_juice": "Orange Juice",
+  "item.jaffactory.orange": "Jaffa Orange",
+  "item.jaffactory.orange_juice": "Jaffa Juice",
 
-  "block.jaffactory.orange_block": "Basket of Oranges"
+  "block.jaffactory.orange_block": "Basket of Jaffa Oranges",
+  "block.jaffactory.orange_log_block": "Jaffa Log",
+  "block.jaffactory.orange_planks_block": "Jaffa Planks",
+  "block.jaffactory.orange_planks_stairs": "Jaffa Stairs",
+  "block.jaffactory.orange_planks_slab": "Jaffa Slab",
+  "block.jaffactory.orange_planks_button": "Jaffa Button",
+  "block.jaffactory.orange_planks_pressure_plate": "Jaffa Plate",
+  "block.jaffactory.orange_planks_fence": "Jaffa Fence",
+  "block.jaffactory.orange_planks_fence_gate": "Jaffa Fence Gate",
+  "block.jaffactory.orange_planks_door": "Jaffa Door",
+  "block.jaffactory.orange_planks_trapdoor": "Jaffa Trapdoor"
 }
